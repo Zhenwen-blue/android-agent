@@ -41,5 +41,3 @@ python CodeHelper.py
 - SSH 连接超时或失败请检查网络和防火墙设置。
 
 ## 📄 许可证
-
-MIT License © 2026
